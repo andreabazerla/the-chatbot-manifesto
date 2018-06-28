@@ -38,7 +38,9 @@ What is the best way to learn to do a thing? Receive a lesson from the teacher, 
 - [3]: ["Manifesto for an Intelligent Chatbot Platform"](https://daoudclarke.github.io/chatbots/2018/02/06/manifesto-for-a-new-chatbot-platform)
 
 ## Author
-[Andrea Bazerla]()
+[Andrea Bazerla](https://twitter.com/andreabazerla): creative developer and designer, technology addicted and adventure lover born in Verona (Italy) in '93.
 
 ## License
-_The Chatbot Manifesto_ is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+*The Chatbot Manifesto* is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
